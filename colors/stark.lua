@@ -1,0 +1,1 @@
+require("stark").load()
